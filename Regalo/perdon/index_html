@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Cheri</title>
+</head>
+<body>
+    <div class="sombra"></div>
+    <div class="puntos"></div>
+    <div class="puntos-dos"></div>
+    <div class="puntos-tres"></div>
+    <div class="puntos-cuatro"></div>
+    <div class="puntos-cinco"></div>
+    <div class="puntos-seis"></div>
+    <div class="puntos-siete"></div>
+    <div class="puntos-ocho"></div>
+    <div class="puntos-nueve"></div>
+    <div class="puntos-diez"></div>
+    <div class="puntos-once"></div>
+</body>
+</html>
